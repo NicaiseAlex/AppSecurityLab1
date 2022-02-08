@@ -1,4 +1,6 @@
 # AppSecurityLab1
+La compilation et l'exécution de mes codes java a été faites sur intellij.
+
 args for ecb :  
 -ECB ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/ecb/clearTextFileECB ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/ecb/encryptTextFileECB ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/ecb/decryptTextFileECB
 

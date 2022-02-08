@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/3DES.iml" filepath="$PROJECT_DIR$/ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/3DES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/Alice_Bob/Alice_Bob.iml" filepath="$PROJECT_DIR$/ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/Alice_Bob/Alice_Bob.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/AppSecurityLab1.iml" filepath="$PROJECT_DIR$/.idea/AppSecurityLab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/RSA/RSA.iml" filepath="$PROJECT_DIR$/ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/RSA/RSA.iml" />
     </modules>

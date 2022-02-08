@@ -211,7 +211,7 @@ public class Entity{
 			// get an instance of RSA Cipher
 			Cipher cipher = Cipher.getInstance("RSA");
 
-			// init the Cipher in DECRYPT_MODE and aPK
+			// init the Cipher in DECRYPT_MODE and Session key
 			cipher.init(Cipher.DECRYPT_MODE, this.thePrivateKey);
 
 			// use doFinal on the byte[] and return the deciphered byte[]
@@ -236,7 +236,7 @@ public class Entity{
 			// get an instance of RSA Cipher
 			Cipher cipher = Cipher.getInstance("DES");
 
-			// init the Cipher in DECRYPT_MODE and aPK
+			// init the Cipher in DECRYPT_MODE and Session key
 			cipher.init(Cipher.DECRYPT_MODE, sessionKey);
 
 			// use doFinal on the byte[] and return the deciphered byte[]

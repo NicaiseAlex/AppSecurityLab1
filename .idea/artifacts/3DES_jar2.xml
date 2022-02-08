@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="3DES:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/3DES_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="3DES.jar">
+        <element id="module-output" name="3DES" />
+      </element>
+      <element id="library" level="project" name="bcprov-jdk15on-147" />
+    </root>
+  </artifact>
+</component>

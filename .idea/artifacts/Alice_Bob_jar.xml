@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Alice_Bob:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Alice_Bob_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Alice_Bob.jar">
+        <element id="module-output" name="Alice_Bob" />
+      </element>
+    </root>
+  </artifact>
+</component>

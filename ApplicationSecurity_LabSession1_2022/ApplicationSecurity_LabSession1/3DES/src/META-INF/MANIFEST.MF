@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.polytech.security.TripleDES
+Class-Path: bcprov-jdk15on-147.jar
+
