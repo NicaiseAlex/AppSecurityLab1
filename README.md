@@ -1,4 +1,24 @@
 # AppSecurityLab1
+Alexandre Nicaise
+
+Exec 3DES ECB :  
+./exec3DESECB.sh
+
+Exec 3DES CBC :  
+./exec3DESCBC.sh
+
+Exec RSA :  
+./execRSA.sh
+
+Exec Alice_Bob :  
+./execAliceBob.sh
+
+#Warning 
+
+Certain question requière des images, ces dernières sont a la racine du projet avec les fichier shell.
+
+#Intellij
+  
 La compilation et l'exécution de mes codes java a été faites sur intellij.
 
 args for ecb :  

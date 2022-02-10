@@ -1,1 +1,1 @@
-java -jar 3DES.jar "-ECB" "ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/ecb/clearTextFileECB" "ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/ecb/encryptTextFileECB" "ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/ecb/decryptTextFileECB"
+java -jar 3DES.jar "-ECB" "3DES/ecb/clearTextFileECB" "3DES/ecb/encryptTextFileECB" "3DES/ecb/decryptTextFileECB"

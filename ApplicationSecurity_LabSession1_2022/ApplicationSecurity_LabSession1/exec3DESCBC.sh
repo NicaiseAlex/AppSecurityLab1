@@ -1,1 +1,1 @@
-java -jar 3DES.jar "-CBC" "ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/cbc/clearTextFileCBC" "ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/cbc/encryptTextFileCBC" "ApplicationSecurity_LabSession1_2022/ApplicationSecurity_LabSession1/3DES/cbc/decryptTextFileCBC"
+java -jar 3DES.jar "-CBC" "3DES/cbc/clearTextFileCBC" "3DES/cbc/encryptTextFileCBC" "3DES/cbc/decryptTextFileCBC"
